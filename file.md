@@ -1,2 +1,1 @@
-this is a test
-trying conflict
+This is no more a test
